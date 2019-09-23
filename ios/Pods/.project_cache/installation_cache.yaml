@@ -4196,6 +4196,16 @@ CACHE_KEYS:
     PROJECT_NAME: EXDocumentPicker
     SPECS:
       - EXDocumentPicker (7.0.0)
+  EXErrorRecovery:
+    BUILD_SETTINGS_CHECKSUM:
+      EXErrorRecovery: 03069191ef27dea52bcf42a6f81ec324
+    CHECKSUM: d36db99ec6a3808f313f01b0890eb443796dd1c2
+    FILES:
+      - "../../packages/expo-error-recovery/ios/EXErrorRecovery/EXErrorRecoveryModule.h"
+      - "../../packages/expo-error-recovery/ios/EXErrorRecovery/EXErrorRecoveryModule.m"
+    PROJECT_NAME: EXErrorRecovery
+    SPECS:
+      - EXErrorRecovery (1.0.0)
   EXFacebook:
     BUILD_SETTINGS_CHECKSUM:
       EXFacebook: 6b3825dfac50d3a0fea3f27d8ecdf605
