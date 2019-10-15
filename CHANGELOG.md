@@ -28,6 +28,7 @@ This is the log of notable changes to the Expo client that are developer-facing.
 - Fixed cropping tool in `ImagePicker`, which was not moving on iOS. ([#5965](https://github.com/expo/expo/pull/5965) by [@lukmccall](https://github.com/lukmccall))
 - Fixed handling URI with no scheme in `ExpoFileSystem`. ([5904](https://github.com/expo/expo/pull/5904) by [@bbarthec](https://github.com/bbarthec))
 - Fixed `FileSystem#deleteAsync` in older Android SDKs. ([#5923](https://github.com/expo/expo/pull/5923) by [@bbarthec](https://github.com/bbarthec))
+- Fixed scanning `PDF417` in `BarCodeScanner` on iOS. ([#5976](https://github.com/expo/expo/pull/5531) by [@bbarthec](https://github.com/bbarthec))
 
 ## 35.0.0
 
