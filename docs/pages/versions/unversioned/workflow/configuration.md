@@ -131,7 +131,7 @@ Whether the Facebook SDK should be initialized automatically. The default in Exp
 
 ### `"facebookAutoLogAppEventsEnabled"`
 
-Whether the Facebook SDK log app events automatically. If you don't set this property, Facebook's default will be used. (Applicable only to standalone apps.)
+Whether the Facebook SDK log app events automatically. If you don't set this property, Facebook's default will be used (at the time of writing this doc: `true`). (Applicable only to standalone apps.)
 
 > Note that Facebook SDK must be initialized for app events to work. You may autoinitialize Facebook SDK by setting `facebookAutoInitEnabled` to `true`.
 
@@ -139,7 +139,7 @@ Whether the Facebook SDK log app events automatically. If you don't set this pro
 
 ### `"facebookAdvertiserIDCollectionEnabled"`
 
-Whether the Facebook SDK should collect `advertiser-id` properties automatically. If you don't set this property, Facebook's default will be used. (Applicable only to standalone apps.)
+Whether the Facebook SDK should collect `advertiser-id` properties automatically. If you don't set this property, Facebook's default will be used (at the time of writing this doc: `true`). (Applicable only to standalone apps.)
 
 > **ExpoKit**: To change this field, edit `Info.plist` and `AndroidManifest.xml`.
 
